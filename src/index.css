@@ -1,0 +1,9 @@
+body {
+  padding-top: 10px;
+}
+.liked {
+  color: red;
+}
+.clickable {
+  cursor: pointer;
+}
